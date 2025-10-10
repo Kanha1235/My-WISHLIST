@@ -1,4 +1,4 @@
-# My-WISHLIST
+# My-WISHLIST &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![View it live](https://img.shields.io/badge/Live-Demo-blue)](https://kanha1235.github.io/My-WISHLIST/)
 Wishlist App
 
 A simple Wishlist App built using HTML, CSS, and JavaScript. This app allows users to manage a list of items, mark them as done, and delete them. Perfect for keeping track of wishes or goals!
